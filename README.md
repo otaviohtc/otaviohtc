@@ -10,9 +10,9 @@ Currently sharpening my skills in **JavaScript and Java**, with a focus on algor
 ### 🔥 **Featured**
 | Project | Description | Tech | 
 |---------|-------------|------|
-| **[Galaxy Energy](https://github.com/otaviohtc/galaxy-energy)** | Paid project | HTML, CSS, JS | 
-| **[Role-Playing Game (FCC)](https://otaviohtc.github.io/js-fcc-algorithms-dsa/solutions/Role-Playing-Game/)** | Interactive RPG with inventory system | HTML, CSS, JS | 
-| **[Snake Game](https://github.com/otaviohtc/js-snakegame)** | Classic Snake with score tracking | JavaScript | 
+| **[Galaxy Energy](https://otaviohtc.github.io/galaxy-energy/)** | Paid project | HTML, CSS, JS | 
+| **[Role-Playing Game (FCC)](https://otaviohtc.github.io/js-fcc-algorithms-dsa/Role%20Playing%20Game/)** | Interactive RPG with inventory system | HTML, CSS, JS | 
+| **[Snake Game](https://otaviohtc.github.io/js-snakegame/)** | Classic Snake with score tracking | JavaScript | 
 
 ### 📚 **Learning & Practice**
 | Category | Repos | 
