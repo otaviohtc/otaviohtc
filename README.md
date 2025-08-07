@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] | Full-Stack Developer
+# 👋 Hi, I'm Otávio Costa | Full-Stack Developer
 
 Passionate about problem-solving and building efficient applications.  
 Currently sharpening my skills in **JavaScript and Java**, with a focus on algorithms and web development.
@@ -23,7 +23,7 @@ Currently sharpening my skills in **JavaScript and Java**, with a focus on algor
 
 ---
 
-## 🌟 Skillsotaviohtc
+## 🌟 Skills
 **Languages**: JavaScript, Java, C, Python, HTML/CSS  
 **Tools**: Git, VS Code, Linux  
 **Concepts**: Algorithms, OOP, Data Structures, Debugging  
@@ -33,7 +33,3 @@ Currently sharpening my skills in **JavaScript and Java**, with a focus on algor
 ## 📈 Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviohtc&show_icons=true&theme=radical)
 
----
-
-## 📫 Let's Connect  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:otavio.htcosta@gmail.com)
